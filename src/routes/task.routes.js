@@ -44,7 +44,5 @@ router.delete('/:id', async(req, res) => {
     res.json({ status: "Tarea eliminada" });
 });
 
-
-
 //Exportar las rutas que se creen
 module.exports = router;

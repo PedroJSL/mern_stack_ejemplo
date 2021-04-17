@@ -13,3 +13,15 @@ Para la creación de una página web que hará de 'To-do List' para mostrar, cre
 - Express: Módulo para el servidor Backend. //npm install express
 - Morgan: Módulo para registrar o ver por consola las peticiones que se reciben desde el navegador. //npm install morgan
 - Mongoose: Móduglo para conectar con la base de datos MongoDB //npm install mongoose
+- Webpack: Módulo para empaquetar el js perteneciente a react //npm install webpack -D
+- Webpack-cli: Módulo para empaquetar el js perteneciente a react //npm install webpack-cli -D
+- React: Módulo principal de react //npm install react -D //Sólo es necesario para el desarrollo
+- React-dom: Módulo para el desarrollo web //npm install react-dom -D //Sólo es necesario para el desarrollo
+
+### Modulos para poder empaquetar el código de react utilizando Webpack
+- babel-core
+- babel-loader
+- babel-preset-react
+- babel-preset-env
+
+Estos módulos sólo son necesarios en desarrollo.
