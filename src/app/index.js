@@ -4,11 +4,11 @@ import { render } from 'react-dom';
 class App extends Component {
     render() {
 
-        return ( <
-            h1 > Esto es una puta mierda. < /h1>
+        return ( 
+            <h1>Esto es una puta mierda.</h1>
         )
 
     }
 }
 
-render( < App / > , document.getElementById('app'));
+render( <App/>, document.getElementById('app'));

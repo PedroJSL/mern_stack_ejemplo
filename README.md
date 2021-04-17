@@ -19,9 +19,11 @@ Para la creación de una página web que hará de 'To-do List' para mostrar, cre
 - React-dom: Módulo para el desarrollo web //npm install react-dom -D //Sólo es necesario para el desarrollo
 
 ### Modulos para poder empaquetar el código de react utilizando Webpack
-- babel-core
 - babel-loader
-- babel-preset-react
-- babel-preset-env
+
+Instalar utilizando: npm install --save-dev 
+- @babel/core     
+- @babel/preset-react
+- @babel/preset-env
 
 Estos módulos sólo son necesarios en desarrollo.
