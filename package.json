@@ -1,0 +1,19 @@
+{
+    "name": "mern_ejemplo",
+    "version": "1.0.0",
+    "description": "Proyecto de ejemplo en la integración de MongoDB, Express, React y NodeJS",
+    "main": "index.js",
+    "scripts": {
+        "start": "node src/index.js",
+        "dev": "nodemon src/index.js"
+    },
+    "author": "Pedro José Suárez Lantigua",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1",
+        "morgan": "^1.10.0"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.7"
+    }
+}
