@@ -27,3 +27,11 @@ Instalar utilizando: npm install --save-dev
 - @babel/preset-env
 
 Estos módulos sólo son necesarios en desarrollo.
+
+### Framework de CSS 'Materialize'
+Se puede instalar con npm, pero requiere configuración extra en webpack
+
+#### Videotutoriales utilizados:
+
+Video 1: https://www.youtube.com/watch?v=DqpL5UtJHus
+Video 2: https://www.youtube.com/watch?v=204v5QXHlmc T: 00:49:34
